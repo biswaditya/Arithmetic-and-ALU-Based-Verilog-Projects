@@ -11,7 +11,7 @@ integer i;
     initial
     begin
         $display("BCD  | A,B,C,D,E,F,G");
-        for (i = 0; i < 16; i = i + 1)
+        for (i = 0; i<=9 ; i = i + 1)
         begin
             BCD = i[3:0]; 
             #10;
