@@ -1,1 +1,1 @@
-# Verilog-Projects (Level 1)
+# Verilog Projects Using Combinatinal Digital Circuits
