@@ -1,1 +1,1 @@
-# Verilog Projects Using Combinatinal Digital Circuits
+# Verilog Projects Using Combinational Digital Circuits
