@@ -1,1 +1,1 @@
-#  Arithmetic | Data Processing Units | Display Visualization->>Based Verilog Projects
+Arithmetic and Data Processing Units Based Verilog Projects
