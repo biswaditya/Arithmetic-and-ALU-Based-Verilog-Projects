@@ -1,1 +1,1 @@
-# Verilog Projects Using Combinational Digital Circuits
+# Arithmetic and ALU-Based Verilog Projects
